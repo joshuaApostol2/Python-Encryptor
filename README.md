@@ -9,6 +9,9 @@ pkg install git
 pkg install python
 ```
 ```
+pip install bs4
+```
+```
 git clone https://github.com/joshuaApostol2/Python-Encryptor
 ```
 ```
